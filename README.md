@@ -3,7 +3,7 @@ To pulldown and work with the repo, first follow the instructions by android sou
 Then follow the instruction here: http://source.android.com/source/downloading.html replacing the repo init command with:
 
 
-$ repo init -u https://github.com/BelieveROM/Manifest.git -b JB4.3
+$ repo init -u https://github.com/ICSourcery/Manifest.git -b JB4.3
 
 $ repo sync
 
