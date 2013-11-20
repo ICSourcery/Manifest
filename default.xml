@@ -52,7 +52,7 @@
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
-  <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="eagle" revision="jb4.3" />
+  <project path="device/lge/g2-common" name="android_device_lge_g2-common" remote="eagle" revision="kk4.4" />
   <project path="device/lge/vs980" name="android_device_lge_vs980" remote="eagle" revision="kk4.4" />
   <project path="device/lge/hammerhead" name="device/lge/hammerhead" groups="device,hammerhead" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" />
