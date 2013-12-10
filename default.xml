@@ -4,8 +4,9 @@
   <remote name="aosp"
        	fetch="https://android.googlesource.com/" />
     	 
-  <remote name="cm"
-	fetch="git://github.com/CyanogenMod/" />
+  <remote  name="cm"
+           fetch="https://github.com/"
+           review="review.cyanogenmod.com" />
 
   <remote name="eagle"
        	fetch="git://github.com/ICSourcery/" />
